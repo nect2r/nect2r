@@ -1,6 +1,9 @@
 # 깃허브 : https://github.com/nect2r
 # 블로그 : https://nect2r.tistory.com
 
+<details>
+    <summary>자세히</summary>
+    
 ## 이슈
 - [[이슈] video.js Uncaught DOMException: Failed to read the ‘handle’ property from ‘MediaSource’: MediaSourceHandle creation is currently supported only in a dedicated worker.](https://nect2r.tistory.com/62)
 
@@ -87,3 +90,5 @@
     - [[Eclipse]Dynamic web module version 2.5 VS 3.0 차이점](https://nect2r.tistory.com/21)
     - [[Eclipse]이클립스 서버 시작 타임아웃 오류 해결법 (Tomcat)](https://nect2r.tistory.com/19)
     - [[Eclipse]Eclipse Console 출력 라인수 늘리기](https://nect2r.tistory.com/15)
+    
+</details>
