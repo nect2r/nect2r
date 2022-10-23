@@ -1,4 +1,3 @@
-<img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=Java&logoColor=white" style="height: 60px"/></a>&nbsp;
 # 깃허브 : https://github.com/nect2r
 # 블로그 : https://nect2r.tistory.com
 
