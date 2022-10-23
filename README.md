@@ -2,7 +2,7 @@
 # 블로그 : https://nect2r.tistory.com
 
 <details>
-    <summary>자세히</summary>
+    <summary>블로깅 더보기</summary>
     
 ## 이슈
 - [[이슈] video.js Uncaught DOMException: Failed to read the ‘handle’ property from ‘MediaSource’: MediaSourceHandle creation is currently supported only in a dedicated worker.](https://nect2r.tistory.com/62)
