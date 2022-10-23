@@ -1,4 +1,9 @@
 # 깃허브 : https://github.com/nect2r
+
+<details>
+    <summary>깃허브 프로젝트별 설명</summary>
+</details>
+
 # 블로그 : https://nect2r.tistory.com
 
 <details>
