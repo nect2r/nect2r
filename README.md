@@ -1,7 +1,36 @@
 # 깃허브 : https://github.com/nect2r
 
 <details>
-    <summary>깃허브 프로젝트별 설명</summary>
+    <summary>프로젝트 더보기</summary>
+
+## Repositories
+- [nect2r](https://github.com/nect2r/nect2r) : Github 대표 페이지 프로젝트
+- [blogging](https://github.com/nect2r/blogging) : Tistory에 작성된 게시글을 정리한 프로젝트
+- [common](https://github.com/nect2r/common) : 개발 시 공통으로 사용하는 소스를 정리한 프로젝트
+- [blogging](https://github.com/nect2r/blogging) : Tistory 블로그 정리 프로젝트
+- [TIL](https://github.com/nect2r/TIL) : Today I Learned를 정리한 프로젝트
+- [blogging](https://github.com/nect2r/blogging) : Tistory 블로그 정리 프로젝트
+- [hello-spring-boot](https://github.com/nect2r/hello-spring-boot) : 인프런 강의 프로젝트
+    - 환경 : Spring Boot, Java, H2
+    - 내용 : [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
+4399개의 수](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)
+- [BuilderPattern](https://github.com/nect2r/BuilderPattern) : 빌더패턴 연습 프로젝트
+    - 내용 : [[Java] 빌더패턴(Builder Pattern) 사용하기](https://nect2r.tistory.com/57?category=916050)
+- [inflearnSpring1](https://github.com/nect2r/inflearnSpring1) : 인프런 강의 프로젝트
+    - 환경 : Spring, Java
+    - 내용 : [자바 스프링 프레임워크(renew ver.) - 신입 프로그래머를 위한 강좌](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC_renew)
+- [liveCanvasNodeJs](https://github.com/nect2r/liveCanvasNodeJs) : 실시간 그림판 노드서버 프로젝트
+    - 환경 : NodeJs, Socket.io
+    - 내용 : Socket 통신을 처리하는 프로젝트
+- [liveCanvas](https://github.com/nect2r/liveCanvas) : 실시간 그림판 스프링서버 프로젝트
+    - 환경 : Spring, Java, Canvas
+    - 내용 : Socket.io 화면을 제공하는 스프링서버
+- [instagram_clone](https://github.com/nect2r/instagram_clone) : 인프런 강의 프로젝트
+    - 환경 : Flutter, Dart, Firebase
+    - 내용 : [Flutter 입문 - 안드로이드, iOS 개발을 한 번에](https://www.inflearn.com/course/flutter-%EC%9E%85%EB%AC%B8/)
+- [MVC1](https://github.com/nect2r/MVC1) : MVC1 패턴을 이용한 게시판 웹 프로젝트
+    - 환경 : Java, Mysql, MVC1
+    - 내용 : 간단 화면, CRUD 구성
 </details>
 
 # 블로그 : https://nect2r.tistory.com
