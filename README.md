@@ -7,13 +7,21 @@
 - [nect2r](https://github.com/nect2r/nect2r) : Github 대표 페이지 프로젝트
 - [blogging](https://github.com/nect2r/blogging) : Tistory에 작성된 게시글을 정리한 프로젝트
 - [common](https://github.com/nect2r/common) : 개발 시 공통으로 사용하는 소스를 정리한 프로젝트
-- [blogging](https://github.com/nect2r/blogging) : Tistory 블로그 정리 프로젝트
 - [TIL](https://github.com/nect2r/TIL) : Today I Learned를 정리한 프로젝트
-- [blogging](https://github.com/nect2r/blogging) : Tistory 블로그 정리 프로젝트
+- [baekjoon](https://github.com/nect2r/baekjoon) : 백준 문제풀이
+- [javaCodeTest](https://github.com/nect2r/javaCodeTest) : 자바 문제풀이
+- [fastcampus365Java](https://github.com/nect2r/fastcampus365Java) : 프로그래머스 강의
+- [김영한의 스프링 부트와 JPA 실무 완전 정복 로드맵](https://www.inflearn.com/roadmaps/149) 
+    - 내용 : 인프런 강의
+    - [querydsl](https://github.com/nect2r/querydsl)
+    - [data-jpa](https://github.com/nect2r/data-jpa)
+    - [jpashop](https://github.com/nect2r/jpashop)
+    - [jqpl](https://github.com/nect2r/jqpl)
+    - [jpabook](https://github.com/nect2r/jpabook)
+    - [hellojpa1](https://github.com/nect2r/hellojpa1)
 - [hello-spring-boot](https://github.com/nect2r/hello-spring-boot) : 인프런 강의 프로젝트
     - 환경 : Spring Boot, Java, H2
-    - 내용 : [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
-4399개의 수](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)
+    - 내용 : [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard)
 - [BuilderPattern](https://github.com/nect2r/BuilderPattern) : 빌더패턴 연습 프로젝트
     - 내용 : [[Java] 빌더패턴(Builder Pattern) 사용하기](https://nect2r.tistory.com/57?category=916050)
 - [inflearnSpring1](https://github.com/nect2r/inflearnSpring1) : 인프런 강의 프로젝트
